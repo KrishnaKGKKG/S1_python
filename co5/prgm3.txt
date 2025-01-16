@@ -1,0 +1,4 @@
+name,age,gender
+jacku,3,male
+jaani,4,female
+jillu,1,male
